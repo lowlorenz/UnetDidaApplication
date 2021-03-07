@@ -1,1 +1,1 @@
-"# UnetDidaApplication" 
+This repository contains my dida applicaiton task notebook and the respective weights for the U-Net.
